@@ -21,7 +21,7 @@
 		<java.level>8</java.level>
 	</properties>
 	<artifactId>selenium</artifactId>
-	<version>3.1.0</version>
+	<version>3.1.0-sessiontimeout</version>
 	<packaging>hpi</packaging>
 	<name>Jenkins Selenium Plugin</name>
 	<url>http://wiki.jenkins-ci.org/display/JENKINS/Selenium+Plugin</url>
